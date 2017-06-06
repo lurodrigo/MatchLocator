@@ -1,2 +1,4 @@
 # MatchLocator
-Utiliza uma brecha do Tinder para localizar latitude e longitude dos matches.
+Utiliza uma API pirata do Tinder para tentar localizar geograficamente os matches.
+
+Ver o artigo em http://lurodrigo.com/2017/06/tinder-localizacao/ para mais informações e modo de uso.
