@@ -1,2 +1,2 @@
-# MatchLocator-public
-Utiliza uma API pirata do Tinder para tentar localizar geograficamente os matches
+# MatchLocator
+Utiliza uma brecha do Tinder para localizar latitude e longitude dos matches.
